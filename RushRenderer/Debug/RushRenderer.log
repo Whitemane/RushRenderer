@@ -1,0 +1,7 @@
+﻿  main.cpp
+F:\Soft\tinyrenderer-d0703acf18c48f2f7d00e552697d4797e0669ade\main.cpp(7,33): warning C4305: “+=”: 从“double”到“float”截断
+F:\Soft\tinyrenderer-d0703acf18c48f2f7d00e552697d4797e0669ade\main.cpp(8,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\Soft\tinyrenderer-d0703acf18c48f2f7d00e552697d4797e0669ade\main.cpp(9,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  tgaimage.cpp
+  正在生成代码...
+  RushRenderer.vcxproj -> F:\CloneRenderer\RushRenderer\RushRenderer\Debug\RushRenderer.exe
